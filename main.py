@@ -6,3 +6,4 @@ column = 22
 
 # save the vector of all integers from the given row and column
 # find the sum, min, max and average
+# use matplotlib to plot a simple graph of your vector (x axis is the index of the value)
